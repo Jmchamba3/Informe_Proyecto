@@ -2,7 +2,7 @@
                                                                 ELECTRICA Y ELECTRONICA
 
 Integrantes: 
-- Chamba Jose
+- Chamba José
 - Reinoso Luis
 - Rojas Brayan
 
