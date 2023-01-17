@@ -24,8 +24,8 @@ Conocer la manera que interactúan los interruptores conmutados con el circuito 
 
 ## 2.Marco teorico
 
-
-
+![imagen](https://user-images.githubusercontent.com/116812651/212789406-749266fa-3b1b-4031-9e15-940a9c2c2fbb.png)
+![imagen](https://user-images.githubusercontent.com/116812651/212789416-d7f10887-9a92-481a-be37-c3526e89d18f.png)
 
 ## 3.Procedimiento
 
@@ -51,6 +51,8 @@ Procedieminto
 9. Colocamos el Foco y probamso el circuito.
 
 ## 4.Video
+
+https://www.youtube.com/watch?v=LFJpxqLb2DA 
 
 ## 5.Concluionses
 
